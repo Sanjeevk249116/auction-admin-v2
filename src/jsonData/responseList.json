@@ -1,0 +1,29 @@
+
+[
+    {
+      "id": 1,
+      "offer": "I hereby declare that I have inspected the material & I am satisfied with the material quality.",
+      "status": false
+    },
+    {
+      "id": 2,
+      "offer": "The above details filled are correct.",
+      "status": false
+    },
+    {
+      "id": 3,
+      "offer": "I don't have any problem in participating for the above said lot.",
+      "status": false
+    },
+    {
+      "id": 4,
+      "offer": "I will lift the material on 'As is where is' condition in case I am the H1 bidder and after Company confirms the lot.",
+      "status": false
+    },
+    {
+      "id": 5,
+      "offer": "I will agree to pay the penalty if any as mentioned in the auction catalog.",
+      "status": false
+    }
+  ]
+  

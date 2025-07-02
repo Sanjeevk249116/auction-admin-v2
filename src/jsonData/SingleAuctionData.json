@@ -1,0 +1,344 @@
+{
+  "inspectionSchedule": {
+    "endDate": "2024-09-12T00:00:00.000Z",
+    "inspectionLocation": "Bangalore, Karnataka, India",
+    "startingTime": "Tue Aug 20 2024 10:00:00 GMT+0000 (Coordinated Universal Time)",
+    "endingTime": "Mon Aug 12 2024 12:00:00 GMT+0000 (Coordinated Universal Time)"
+  },
+  "auctionSchedule": {
+    "startDate": "2024-09-30T00:00:00.000Z",
+    "startingTime": "Tue Aug 20 2024 10:00:00 GMT+0000 (Coordinated Universal Time)",
+    "endingTime": "Tue Aug 20 2024 12:00:00 GMT+0000 (Coordinated Universal Time)"
+  },
+  "EMDSchedule": {
+    "lastDate": "2024-08-19T00:00:00.000Z",
+    "lastTime": "Mon Aug 19 2024 14:00:00 GMT+0000 (Coordinated Universal Time)"
+  },
+  "_id": "66b063f6ac7dd4e2f29cd49f",
+  "status": "upComing",
+  "seller": "666fccad826e3ccff7ee859d",
+  "offers": [
+    {
+      "offerSchedule": {
+        "startDate": "2024-08-20T00:00:00.000Z",
+        "startTimeAndDate": "Tue Aug 20 2024 10:59:00 GMT+0000 (Coordinated Universal Time)",
+        "endTimeAndDate": "Tue Aug 20 2024 19:00:00 GMT+0000 (Coordinated Universal Time)"
+      },
+      "scrapDetails": {
+        "type": "steel",
+        "name": "watse",
+        "quantity": "276",
+        "unit": "MT"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India",
+        "latitude": 12.9715987,
+        "longitude": 77.5945627,
+        "address": "159/39, near vidhyavati hospital, in front of s.p, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+        "district": "Bangalore Division",
+        "coordinates": [0, 0],
+        "type": "Point"
+      },
+      "_id": "66b06448ac7dd4e2f29cd504",
+      "auction": "66b063f6ac7dd4e2f29cd49f",
+      "description": "No description provided",
+      "EMDAmount": "585",
+      "pickups": [],
+      "images": [],
+      "requiresPCBCertificate": false,
+      "status": "completed",
+      "minBidIncrement": 54,
+      "startingPrice": 48,
+      "highestBidAmount": 48,
+      "isNew": false,
+      "bids": [],
+      "depositedBy": [
+        {
+          "canBid": true,
+          "_id": "66c4299c5b4e1d31bf5f6fd2",
+          "account": "666fccd3826e3ccff7ee85a6",
+          "amount": 1500,
+          "date": "2024-08-20T05:29:00.387Z"
+        }
+      ],
+      "wonBy": [],
+      "createdAt": "2024-08-05T05:34:00.978Z",
+      "updatedAt": "2024-08-20T13:30:00.798Z",
+      "offerId": "CERCLE-91155",
+      "offerNumber": 1,
+      "__v": 1,
+      "auctionType": "forwardAuction",
+      "curentBidAmount": 0,
+      "maximumBid": 0,
+      "minimumBid": 0,
+      "deposited": true
+    },
+    {
+      "offerSchedule": {
+        "startDate": "2024-08-20T00:00:00.000Z",
+        "startTimeAndDate": "Tue Aug 20 2024 10:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endTimeAndDate": "Tue Aug 20 2024 18:00:00 GMT+0000 (Coordinated Universal Time)"
+      },
+      "scrapDetails": {
+        "type": "plastic-waste",
+        "name": "plastic waste",
+        "quantity": "450",
+        "unit": "MT"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India",
+        "latitude": 12.9715987,
+        "longitude": 77.5945627,
+        "address": "159/39, near vidhyavati hospital, in front of s.p, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+        "district": "Bangalore Division",
+        "coordinates": [0, 0],
+        "type": "Point"
+      },
+      "_id": "66c2d1ce82076f213a475802",
+      "auction": "66b063f6ac7dd4e2f29cd49f",
+      "auctionType": "forwardAuction",
+      "maximumBid": 12,
+      "minimumBid": 0,
+      "description": "No description provided",
+      "EMDAmount": "600",
+      "pickups": [],
+      "images": [],
+      "requiresPCBCertificate": false,
+      "status": "completed",
+      "startingPrice": 100,
+      "curentBidAmount": 0,
+      "isNew": false,
+      "bids": [],
+      "depositedBy": [],
+      "wonBy": [],
+      "createdAt": "2024-08-19T05:02:06.934Z",
+      "updatedAt": "2024-08-20T12:30:00.378Z",
+      "offerId": "CERCLE-46307",
+      "offerNumber": 2,
+      "__v": 1,
+      "deposited": false
+    },
+    {
+      "offerSchedule": {
+        "startDate": "2024-08-20T00:00:00.000Z",
+        "startTimeAndDate": "Tue Aug 20 2024 10:59:00 GMT+0000 (Coordinated Universal Time)",
+        "endTimeAndDate": "Tue Aug 20 2024 19:00:00 GMT+0000 (Coordinated Universal Time)"
+      },
+      "scrapDetails": {
+        "type": "steel",
+        "name": "watse",
+        "quantity": "276",
+        "unit": "MT"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India",
+        "latitude": 12.9715987,
+        "longitude": 77.5945627,
+        "address": "159/39, near vidhyavati hospital, in front of s.p, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+        "district": "Bangalore Division",
+        "coordinates": [0, 0],
+        "type": "Point"
+      },
+      "_id": "66b06448ac7dd4e2f29cd5054",
+      "auction": "66b063f6ac7dd4e2f29cd49f",
+      "description": "No description provided",
+      "EMDAmount": "585",
+      "pickups": [],
+      "images": [],
+      "requiresPCBCertificate": false,
+      "status": "completed",
+      "minBidIncrement": 54,
+      "startingPrice": 48,
+      "highestBidAmount": 48,
+      "isNew": false,
+      "bids": [],
+      "depositedBy": [
+        {
+          "canBid": true,
+          "_id": "66c4299c5b4e1d31bf5f6fd2",
+          "account": "666fccd3826e3ccff7ee85a6",
+          "amount": 1500,
+          "date": "2024-08-20T05:29:00.387Z"
+        }
+      ],
+      "wonBy": [],
+      "createdAt": "2024-08-05T05:34:00.978Z",
+      "updatedAt": "2024-08-20T13:30:00.798Z",
+      "offerId": "CERCLE-91155",
+      "offerNumber": 1,
+      "__v": 1,
+      "auctionType": "forwardAuction",
+      "curentBidAmount": 0,
+      "maximumBid": 0,
+      "minimumBid": 0,
+      "deposited": false
+    },
+    {
+      "offerSchedule": {
+        "startDate": "2024-08-20T00:00:00.000Z",
+        "startTimeAndDate": "Tue Aug 20 2024 10:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endTimeAndDate": "Tue Aug 20 2024 18:00:00 GMT+0000 (Coordinated Universal Time)"
+      },
+      "scrapDetails": {
+        "type": "plastic-waste",
+        "name": "plastic waste",
+        "quantity": "450",
+        "unit": "MT"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India",
+        "latitude": 12.9715987,
+        "longitude": 77.5945627,
+        "address": "159/39, near vidhyavati hospital, in front of s.p, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+        "district": "Bangalore Division",
+        "coordinates": [0, 0],
+        "type": "Point"
+      },
+      "_id": "66c2d1ce82076f2136a475802",
+      "auction": "66b063f6ac7dd4e2f29cd49f",
+      "auctionType": "forwardAuction",
+      "maximumBid": 12,
+      "minimumBid": 0,
+      "description": "No description provided",
+      "EMDAmount": "600",
+      "pickups": [],
+      "images": [],
+      "requiresPCBCertificate": false,
+      "status": "completed",
+      "startingPrice": 100,
+      "curentBidAmount": 0,
+      "isNew": false,
+      "bids": [],
+      "depositedBy": [],
+      "wonBy": [],
+      "createdAt": "2024-08-19T05:02:06.934Z",
+      "updatedAt": "2024-08-20T12:30:00.378Z",
+      "offerId": "CERCLE-46307",
+      "offerNumber": 2,
+      "__v": 1,
+      "deposited": false
+    },
+    {
+      "offerSchedule": {
+        "startDate": "2024-08-20T00:00:00.000Z",
+        "startTimeAndDate": "Tue Aug 20 2024 10:59:00 GMT+0000 (Coordinated Universal Time)",
+        "endTimeAndDate": "Tue Aug 20 2024 19:00:00 GMT+0000 (Coordinated Universal Time)"
+      },
+      "scrapDetails": {
+        "type": "steel",
+        "name": "watse",
+        "quantity": "276",
+        "unit": "MT"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India",
+        "latitude": 12.9715987,
+        "longitude": 77.5945627,
+        "address": "159/39, near vidhyavati hospital, in front of s.p, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+        "district": "Bangalore Division",
+        "coordinates": [0, 0],
+        "type": "Point"
+      },
+      "_id": "66b06448ac7dd4e2f289cd504",
+      "auction": "66b063f6ac7dd4e2f29cd49f",
+      "description": "No description provided",
+      "EMDAmount": "585",
+      "pickups": [],
+      "images": [],
+      "requiresPCBCertificate": false,
+      "status": "completed",
+      "minBidIncrement": 54,
+      "startingPrice": 48,
+      "highestBidAmount": 48,
+      "isNew": false,
+      "bids": [],
+      "depositedBy": [
+        {
+          "canBid": true,
+          "_id": "66c4299c5b4e1d31bf5f6fd2",
+          "account": "666fccd3826e3ccff7ee85a6",
+          "amount": 1500,
+          "date": "2024-08-20T05:29:00.387Z"
+        }
+      ],
+      "wonBy": [],
+      "createdAt": "2024-08-05T05:34:00.978Z",
+      "updatedAt": "2024-08-20T13:30:00.798Z",
+      "offerId": "CERCLE-91155",
+      "offerNumber": 1,
+      "__v": 1,
+      "auctionType": "forwardAuction",
+      "curentBidAmount": 0,
+      "maximumBid": 0,
+      "minimumBid": 0,
+      "deposited": false
+    },
+    {
+      "offerSchedule": {
+        "startDate": "2024-08-20T00:00:00.000Z",
+        "startTimeAndDate": "Tue Aug 20 2024 10:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endTimeAndDate": "Tue Aug 20 2024 18:00:00 GMT+0000 (Coordinated Universal Time)"
+      },
+      "scrapDetails": {
+        "type": "plastic-waste",
+        "name": "plastic waste",
+        "quantity": "450",
+        "unit": "MT"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India",
+        "latitude": 12.9715987,
+        "longitude": 77.5945627,
+        "address": "159/39, near vidhyavati hospital, in front of s.p, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+        "district": "Bangalore Division",
+        "coordinates": [0, 0],
+        "type": "Point"
+      },
+      "_id": "66c2d1ce820766f213a475802",
+      "auction": "66b063f6ac7dd4e2f29cd49f",
+      "auctionType": "forwardAuction",
+      "maximumBid": 12,
+      "minimumBid": 0,
+      "description": "No description provided",
+      "EMDAmount": "600",
+      "pickups": [],
+      "images": [],
+      "requiresPCBCertificate": false,
+      "status": "completed",
+      "startingPrice": 100,
+      "curentBidAmount": 0,
+      "isNew": false,
+      "bids": [],
+      "depositedBy": [],
+      "wonBy": [],
+      "createdAt": "2024-08-19T05:02:06.934Z",
+      "updatedAt": "2024-08-20T12:30:00.378Z",
+      "offerId": "CERCLE-46307",
+      "offerNumber": 2,
+      "__v": 1,
+      "deposited": false
+    }
+  ],
+  "customerSupport": [],
+  "isNew": false,
+  "description": "steel, plastic-waste",
+  "inspections": [],
+  "createdAt": "2024-08-05T05:32:38.806Z",
+  "updatedAt": "2024-08-05T05:32:38.806Z",
+  "auctionId": "CERCLE-6618",
+  "__v": 2,
+  "auctionType": "reverseAuction",
+  "inspectionRequest": {}
+}

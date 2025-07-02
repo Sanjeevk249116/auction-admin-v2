@@ -1,0 +1,107 @@
+[
+  {
+    "auction": "6672656258ad61cd981b3440",
+    "trader": {
+      "_id": "666fccd3826e3ccff7ee85a6",
+      "organizationName": "cerclex"
+    },
+    "amount": 2,
+    "status": "pending",
+    "winner": false,
+    "curentAmount": 2,
+    "_id": "66b4be9a808c508eea0fa05f",
+    "bidDate": "2024-08-08T12:48:26.991Z",
+    "createdAt": "2024-08-08T12:48:26.991Z",
+    "time": "2024-08-08T12:48:26.991Z"
+  },
+  {
+    "auction": "6672656258ad61cd981b3440",
+    "trader": {
+      "_id": "66a20e88b5853a43c4b5d00c",
+      "organizationName": "Coimbatore Trader"
+    },
+    "amount": 1,
+    "status": "pending",
+    "winner": false,
+    "curentAmount": 3,
+    "_id": "66b4beee808c508eea0fa225",
+    "bidDate": "2024-08-08T12:49:50.922Z",
+    "createdAt": "2024-08-08T12:49:50.922Z",
+    "time": "2024-08-08T12:49:50.922Z"
+  },
+  {
+    "auction": "6672656258ad61cd981b3440",
+    "trader": {
+      "_id": "666fccd3826e3ccff7ee85a6",
+      "organizationName": "cerclex"
+    },
+    "amount": 1,
+    "status": "pending",
+    "winner": false,
+    "curentAmount": 4,
+    "_id": "66b4befc808c508eea0fa25d",
+    "bidDate": "2024-08-08T12:50:04.152Z",
+    "createdAt": "2024-08-08T12:50:04.152Z",
+    "time": "2024-08-08T12:50:04.152Z"
+  },
+  {
+    "auction": "6672656258ad61cd981b3440",
+    "trader": {
+      "_id": "66a20e88b5853a43c4b5d00c",
+      "organizationName": "Coimbatore Trader"
+    },
+    "amount": 1,
+    "status": "pending",
+    "winner": false,
+    "curentAmount": 5,
+    "_id": "66b4bf00808c508eea0fa272",
+    "bidDate": "2024-08-08T12:50:08.327Z",
+    "createdAt": "2024-08-08T12:50:08.327Z",
+    "time": "2024-08-08T12:50:08.327Z"
+  },
+  {
+    "auction": "6672656258ad61cd981b3440",
+    "trader": {
+      "_id": "666fccd3826e3ccff7ee85a6",
+      "organizationName": "cerclex"
+    },
+    "amount": 2,
+    "status": "pending",
+    "winner": false,
+    "curentAmount": 7,
+    "_id": "66b4bf08808c508eea0fa289",
+    "bidDate": "2024-08-08T12:50:16.223Z",
+    "createdAt": "2024-08-08T12:50:16.223Z",
+    "time": "2024-08-08T12:50:16.223Z"
+  },
+  {
+    "auction": "6672656258ad61cd981b3440",
+    "trader": {
+      "_id": "66a20e88b5853a43c4b5d00c",
+      "organizationName": "Coimbatore Trader"
+    },
+    "amount": 3,
+    "status": "pending",
+    "winner": false,
+    "curentAmount": 10,
+    "_id": "66b4bf0e808c508eea0fa2a2",
+    "bidDate": "2024-08-08T12:50:22.325Z",
+    "createdAt": "2024-08-08T12:50:22.325Z",
+    "time": "2024-08-08T12:50:22.325Z"
+  },
+  {
+    "auction": "6672656258ad61cd981b3440",
+    "trader": {
+      "_id": "666fccd3826e3ccff7ee85a6",
+      "organizationName": "cerclex"
+    },
+    "amount": 1,
+    "status": "pending",
+    "winner": false,
+    "curentAmount": 11,
+    "_id": "66b4bf13808c508eea0fa2bd",
+    "bidDate": "2024-08-08T12:50:27.284Z",
+    "createdAt": "2024-08-08T12:50:27.284Z",
+    "time": "2024-08-08T12:50:27.284Z"
+  }
+]

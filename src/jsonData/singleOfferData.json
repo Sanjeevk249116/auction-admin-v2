@@ -1,0 +1,60 @@
+{
+    "offerSchedule": {
+        "startDate": "2024-08-12T00:00:00.000Z",
+        "startTimeAndDate": "Mon Aug 12 2024 11:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endTimeAndDate": "Mon Aug 12 2024 12:00:00 GMT+0000 (Coordinated Universal Time)"
+    },
+    "scrapDetails": {
+        "type": "copper",
+        "name": "copper",
+        "quantity": "30",
+        "unit": "MT"
+    },
+    "location": {
+        "city": "Coimbatore",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "latitude": 11.034576,
+        "longitude": 77.01556029999999,
+        "address": "NGR STREET, BR PURAM HOPES COLLEGE, PEELAMEDU, opposite to OLD COCO COLA COMPANY, Maheshwari Nagar, Coimbatore, Tamil Nadu 641004, India",
+        "coordinates": [
+            0,
+            0
+        ],
+        "type": "Point"
+    },
+    "_id": "66b303639b798feac9b06c5d",
+    "auction": "66b302f09b798feac9b0685b",
+    "auctionType": "forwardAuction",
+    "maximumBid": 45,
+    "minimumBid": 0,
+    "description": "No description provided",
+    "EMDAmount": "1300",
+    "pickups": [],
+    "images": [],
+    "requiresPCBCertificate": false,
+    "status": "completed",
+    "startingPrice": 40,
+    "currentBid": 40,
+    "isNew": false,
+    "bids": [],
+    "depositedBy": [
+        {
+            "account": "666fccd3826e3ccff7ee85a6",
+            "canBid": true,
+            "amount": 1300,
+            "_id": "66b307599b798feac9b08bcb",
+            "date": "2024-08-07T05:34:17.858Z",
+            "organizationName":"Infinite Cerclex plt",
+            "email":"sanjeev@cerlex.com",
+            "phone":"0987654321"
+        }
+    ],
+    "wonBy": [],
+    "createdAt": "2024-08-07T05:17:23.141Z",
+    "updatedAt": "2024-08-12T05:32:02.203Z",
+    "offerId": "CERCLE-45106",
+    "offerNumber": 3,
+    "__v": 1,
+    "curentBidAmount": 0
+}

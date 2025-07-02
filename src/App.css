@@ -1,0 +1,421 @@
+.font-12px {
+  font-size: 12px;
+}
+.font-14px {
+  font-size: 14px;
+}
+.font-16px {
+  font-size: 16px;
+}
+.font-18px {
+  font-size: 18px;
+}
+.font-20px {
+  font-size: 20px;
+}
+.font-25px {
+  font-size: 25px;
+}
+.highlight {
+  background-color: yellow;
+}
+.gap-5px {
+  gap: 5px;
+}
+.font-30px {
+  font-size: 30px;
+}
+.gap-1 {
+  gap: 1rem;
+}
+.gap-2 {
+  gap: 2rem;
+}
+.gap-3 {
+  gap: 3rem;
+}
+.gap-4 {
+  gap: 4rem;
+}
+.gap-10px {
+  gap: 10px;
+}
+.gap-5 {
+  gap: 5rem;
+}
+.marginBottom-0px{
+  margin-bottom: 0px !important;
+  box-shadow: none !important;
+  border-bottom: none !important;
+
+}
+.circles.neutral {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.circles.active {
+  position: absolute;
+  right: 5px;
+}
+
+.circles.inactive {
+  position: absolute;
+  left: 5px;
+}
+.search-result {
+  position: absolute;
+  width: 25vw;
+  margin-top: 4px;
+  border-radius: 0 0 5px 5px;
+  background-color: #fff;
+  box-shadow: 0px 8px 15px 5px rgba(0, 0, 0, 0.116);
+}
+.react-ios-time-picker-popup{
+  bottom:18% !important
+}
+
+.search-item:hover {
+  background-color: #e8d9f1;
+  cursor: pointer;
+}
+.search-item-active {
+  background-color: #e8d9f1;
+}
+.search-item {
+  padding: 7px 5px;
+  margin: 2px;
+  border-bottom: 1px solid #efefef;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  height: 45px;
+}
+
+.mv-1 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.catelogTable td {
+  width: 30px;
+}
+.collapsible-header {
+  border-bottom: none;
+}
+.table-container-style {
+  border-radius: 10px;
+  border: 1px solid #eaeaf1;
+  overflow: hidden;
+}
+
+.custom-table-style td {
+  color: #000;
+  text-transform: none;
+  font-size: 14px;
+}
+.custom-table-style th {
+  color: #6f2da8;
+  text-transform: none;
+  font-size: 16px;
+  font-family: circular-bold !important;
+}
+.custom-table-style th,
+.custom-table-style td {
+  padding: 10px 0px;
+  text-align: left;
+}
+
+.custom-table-style > tbody > tr {
+  height: 48px !important;
+  background-color: white;
+}
+.custom-table-style > thead > tr {
+  background-color: #f2f2f2;
+}
+.switch-label {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  width: 65px;
+  height: 27px;
+  border-radius: 100px;
+  position: relative;
+  transition: background-color 0.2s;
+}
+.switch-label .switch-button {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  width: 18px;
+  height: 18px;
+  border-radius: 45px;
+  transition: 0.4s;
+  background: #fff;
+}
+
+@media screen and (max-width: 1450px) {
+  .custom-table-style td {
+    font-size: 12px;
+  }
+
+  .custom-table-style th {
+    font-size: 14px;
+  }
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  background: none;
+  color: transparent;
+  cursor: pointer;
+  display: none; 
+}
+input[type="time"]::-webkit-calendar-picker-indicator {
+  background: none;
+  color: transparent;
+  cursor: pointer;
+}
+input[type="number"]::-webkit-calendar-picker-indicator {
+  background: none;
+  color: transparent;
+  cursor: pointer;
+}
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.react-ios-time-picker-container {
+  background-color: #fff !important;
+}
+.react-ios-time-picker-selected-overlay {
+  background-color: #ddb8fe !important;
+}
+.react-ios-time-picker-btn-container {
+  background-color: #6f2da8 !important;
+}
+.react-ios-time-picker-btn {
+  color: #fff !important;
+}
+.border-1px {
+  border: 1px solid #eaeaf1;
+}
+.switch-label {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  width: 65px;
+  height: 27px;
+  border-radius: 100px;
+  position: relative;
+  transition: background-color 0.2s;
+}
+.vertical-line {
+  border-left: 2px solid #e2e2e2;
+  height: 50px;
+}
+.switch-label .switch-button {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  width: 18px;
+  height: 18px;
+  border-radius: 45px;
+  transition: 0.4s;
+  background: #fff;
+}
+.switch-checkbox:checked + .switch-label .switch-button {
+  left: calc(100% - 5px);
+  transform: translateX(-100%);
+}
+.switch-label:active .switch-button {
+  width: 70px;
+}
+.verticalLine {
+  border-left: 2px solid #e2e2e2;
+  height: 35px;
+}
+.download-inspection-style {
+  background-color: #f4f4f4;
+  border-bottom: 2px solid #e2e2e2;
+}
+.download-inspection-style > p:first-child {
+  min-width: 300px;
+  text-align: start !important;
+  margin-left: 40px;
+  color: #6f2da8;
+}
+.download-inspection-style > p:last-child {
+  text-align: start !important;
+  margin-left: 40px;
+}
+.download-inspection-style {
+  background-color: #f4f4f4;
+  border-bottom: 2px solid #e2e2e2;
+}
+.download-inspection-style > p:first-child {
+  min-width: 300px;
+  text-align: start !important;
+  margin-left: 40px;
+  color: #6f2da8;
+}
+.download-inspection-style > p:last-child {
+  text-align: start !important;
+  margin-left: 40px;
+}
+
+.custom-table {
+  border-collapse: collapse;
+  background-color: white;
+  color: black;
+}
+
+.custom-table th,
+.custom-table td {
+  padding: 8px 12px;
+  border: 1px solid #ddd;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.custom-table th {
+  text-align: right;
+  background-color: #f9f9f9;
+  color: black;
+  width: 53% !important;
+}
+
+.custom-table td {
+  text-align: left;
+  color: black;
+}
+.liveAuction-table > thead > tr{
+  background-color: #FFFFFF;
+}
+.liveAuction-table th{
+  color: #000;
+}
+.activePage a {
+  color: white !important;
+  padding: 0px 3px;
+}
+.pagination-item {
+  margin: 0 5px;
+  padding: 1px 7px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+.img-login {
+  position: absolute;
+  z-index: -1;
+  margin-top: 160px;
+  width: 100vh;
+  height: 90vh;
+  margin-left: 50px;
+}
+
+.disabledButton {
+  pointer-events: none;
+  opacity: 0.4;
+}
+
+@media (max-width: 1000px) {
+  .download-inspection-style > p:first-child {
+    margin-left: 10px;
+    min-width: 150px;
+    min-width: 200px;
+  }
+
+  .download-inspection-style > p:last-child {
+    margin-left: 10px;
+  }
+}
+@media (max-width: 550px) {
+  .custom-table th,
+  .custom-table td {
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+    font-weight: 300;
+    font-size: 12px;
+  }
+}
+
+.recommended-plan {
+  background-color: rgba(169, 176, 243, 0.671) !important;
+  padding: 7px 20px;
+  border-radius: 15px;
+  margin: 0 10px;
+  color: blue;
+}
+
+.wave {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 90%;
+  width: 15%;
+  z-index: -1;
+}
+.img {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.formicError {
+  color: red;
+  font-size: 12px;
+  margin-top: -6px;
+}
+.width-110{
+  width: 110% !important;
+}
+
+.withdrwalSwitch{
+  padding: 4px;
+  border: 1px solid #eaeaf1;
+  border-radius: 40px;
+}
+.withdrwalSwitch > p {
+  padding: 3px 10px;
+  margin-right: 10px;
+  border-radius: 33px;
+  font-size: 12px;
+  z-index: 1;
+}
+.withdrwalBoder{
+   border: 1px solid #eaeaf1;
+}
+.Withdrwalglider {
+  position: absolute;
+  display: flex;
+  height: 25px;
+  width: 62px;
+  z-index: 0.8;
+  border-radius: 99px;
+  transition: 0.25s ease-out;
+}
+.WithdrwalgliderPBg{
+  background-color: #F29339;
+}
+.WithdrwalgliderRBg{
+  background-color: red;
+}
+.WithdrwalgliderGBg{
+  background-color: green;
+}
+.react-datepicker-popper{
+  z-index: 9999 !important;
+}
+#inputOTP{
+    width: 45px;
+    height: 50px;
+    font-size: 24px;
+    text-align: center;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    outline: none;
+    background-color: #fff;
+}

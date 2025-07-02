@@ -1,0 +1,266 @@
+[
+    {
+        "inspectionSchedule": {
+            "endDate": "2024-07-31T00:00:00.000Z",
+            "inspectionLocation": "Chennai, Tamil Nadu, India",
+            "startingTime": "Fri Aug 23 2024 14:00:00 GMT+0000 (Coordinated Universal Time)",
+            "endingTime": "Wed Jul 31 2024 16:00:00 GMT+0000 (Coordinated Universal Time)"
+        },
+        "auctionSchedule": {
+            "startDate": "2024-08-23T00:00:00.000Z",
+            "startingTime": "Fri Aug 23 2024 14:00:00 GMT+0000 (Coordinated Universal Time)",
+            "endingTime": "Fri Aug 23 2024 16:00:00 GMT+0000 (Coordinated Universal Time)"
+        },
+        "EMDSchedule": {
+            "lastDate": "2024-07-30T00:00:00.000Z",
+            "lastTime": "Tue Jul 30 2024 10:00:00 GMT+0000 (Coordinated Universal Time)"
+        },
+        "auctionType": "forwardAuction",
+        "_id": "66a323a08e39c8020a68518a",
+        "status": "completed",
+        "seller": "666fccad826e3ccff7ee859d",
+        "offers": [
+            "66a323de8e39c8020a6851ea"
+        ],
+        "customerSupport": [],
+        "isNew": false,
+        "description": "solid waste",
+        "inspections": [
+            "66b1b2dc4955b3c54b9a7e85"
+        ],
+        "createdAt": "2024-07-26T04:18:40.869Z",
+        "updatedAt": "2024-07-26T04:18:40.869Z",
+        "auctionId": "CERCLE-46421",
+        "__v": 2
+    },
+    {
+        "inspectionSchedule": {
+            "endDate": "2024-08-20T00:00:00.000Z",
+            "inspectionLocation": "Madukarai, Puducherry, India",
+            "startingTime": "Sat Aug 24 2024 10:00:00 GMT+0000 (Coordinated Universal Time)",
+            "endingTime": "Tue Aug 20 2024 11:00:00 GMT+0000 (Coordinated Universal Time)"
+        },
+        "auctionSchedule": {
+            "startDate": "2024-08-24T00:00:00.000Z",
+            "startingTime": "Sat Aug 24 2024 10:00:00 GMT+0000 (Coordinated Universal Time)",
+            "endingTime": "Sat Aug 24 2024 11:00:00 GMT+0000 (Coordinated Universal Time)"
+        },
+        "EMDSchedule": {
+            "lastDate": "2024-08-20T00:00:00.000Z",
+            "lastTime": "Tue Aug 20 2024 10:00:00 GMT+0000 (Coordinated Universal Time)"
+        },
+        "_id": "66c2c98282076f213a472f8c",
+        "status": "completed",
+        "auctionType": "forwardAuction",
+        "seller": "666fccad826e3ccff7ee859d",
+        "offers": [
+            "66c2c9f782076f213a47309f"
+        ],
+        "customerSupport": [],
+        "isNew": false,
+        "description": "Cables",
+        "inspections": [],
+        "createdAt": "2024-08-19T04:26:42.485Z",
+        "updatedAt": "2024-08-19T04:28:39.389Z",
+        "auctionId": "CERCLE-1999",
+        "__v": 1
+    },
+    {
+        "inspectionSchedule": {
+            "endDate": "2024-08-18T00:00:00.000Z",
+            "inspectionLocation": "Kushinagar, Uttar Pradesh, India",
+            "startingTime": "Sun Aug 25 2024 10:00:00 GMT+0000 (Coordinated Universal Time)",
+            "endingTime": "Sun Aug 18 2024 11:00:00 GMT+0000 (Coordinated Universal Time)"
+        },
+        "auctionSchedule": {
+            "startDate": "2024-08-25T00:00:00.000Z",
+            "startingTime": "Sun Aug 25 2024 10:00:00 GMT+0000 (Coordinated Universal Time)",
+            "endingTime": "Sun Aug 25 2024 11:00:00 GMT+0000 (Coordinated Universal Time)"
+        },
+        "EMDSchedule": {
+            "lastDate": "2024-08-18T00:00:00.000Z",
+            "lastTime": "Sun Aug 18 2024 10:00:00 GMT+0000 (Coordinated Universal Time)"
+        },
+        "_id": "66b2f3f6b2ab74bf782a4406",
+        "status": "completed",
+        "auctionType": "reverseAuction",
+        "seller": "666fccad826e3ccff7ee859d",
+        "offers": [
+            "66b2f4a0b2ab74bf782a4590",
+            "66b2f4fab2ab74bf782a4675"
+        ],
+        "customerSupport": [],
+        "isNew": false,
+        "description": "e solid waste, pp waste",
+        "inspections": [
+            "66bae50fdd492c6bbbfe9d1b"
+        ],
+        "createdAt": "2024-08-07T04:11:34.725Z",
+        "updatedAt": "2024-08-13T04:46:07.051Z",
+        "auctionId": "CERCLE-88444",
+        "__v": 3
+    },
+    {
+        "inspectionSchedule": {
+            "endDate": "2024-08-25T00:00:00.000Z",
+            "inspectionLocation": "Coimbatore, Tamil Nadu, India",
+            "startingTime": "Tue Aug 27 2024 10:00:00 GMT+0000 (Coordinated Universal Time)",
+            "endingTime": "Sun Aug 25 2024 11:00:00 GMT+0000 (Coordinated Universal Time)"
+        },
+        "auctionSchedule": {
+            "startDate": "2024-08-27T00:00:00.000Z",
+            "startingTime": "Tue Aug 27 2024 10:00:00 GMT+0000 (Coordinated Universal Time)",
+            "endingTime": "Tue Aug 27 2024 11:00:00 GMT+0000 (Coordinated Universal Time)"
+        },
+        "EMDSchedule": {
+            "lastDate": "2024-08-25T00:00:00.000Z",
+            "lastTime": "Sun Aug 25 2024 10:00:00 GMT+0000 (Coordinated Universal Time)"
+        },
+        "_id": "66b061b7ac7dd4e2f29ccd4e",
+        "status": "completed",
+        "seller": "666fccad826e3ccff7ee859d",
+        "offers": [
+            "66b061e6ac7dd4e2f29cce16",
+            "66b9e07207b2233d45684324"
+        ],
+        "customerSupport": [],
+        "isNew": false,
+        "description": "plastic-waste, Plastic bottles",
+        "inspections": [],
+        "createdAt": "2024-08-05T05:23:03.441Z",
+        "updatedAt": "2024-08-05T05:23:03.441Z",
+        "auctionId": "CERCLE-54498",
+        "__v": 2,
+        "auctionType": "forwardAuction"
+    },
+    {
+        "inspectionSchedule": {
+            "endDate": "2024-08-25T00:00:00.000Z",
+            "inspectionLocation": "Kushinagar, Uttar Pradesh, India",
+            "startingTime": "Fri Aug 30 2024 11:00:00 GMT+0000 (Coordinated Universal Time)",
+            "endingTime": "Sun Aug 25 2024 18:00:00 GMT+0000 (Coordinated Universal Time)"
+        },
+        "auctionSchedule": {
+            "startDate": "2024-08-30T00:00:00.000Z",
+            "startingTime": "Fri Aug 30 2024 11:00:00 GMT+0000 (Coordinated Universal Time)",
+            "endingTime": "Fri Aug 30 2024 18:00:00 GMT+0000 (Coordinated Universal Time)"
+        },
+        "EMDSchedule": {
+            "lastDate": "2024-08-25T00:00:00.000Z",
+            "lastTime": "Sun Aug 25 2024 18:00:00 GMT+0000 (Coordinated Universal Time)"
+        },
+        "auctionType": "forwardAuction",
+        "_id": "66b07311d3cbae6ae2c54390",
+        "status": "completed",
+        "seller": "666fccad826e3ccff7ee859d",
+        "offers": [
+            "66b07371d3cbae6ae2c54600"
+        ],
+        "customerSupport": [],
+        "isNew": true,
+        "description": "small-mirror pieces",
+        "inspections": [],
+        "createdAt": "2024-08-05T06:37:05.881Z",
+        "updatedAt": "2024-08-05T06:37:05.881Z",
+        "auctionId": "CERCLE-51286",
+        "__v": 1
+    },
+    {
+        "inspectionSchedule": {
+            "endDate": "2024-08-29T00:00:00.000Z",
+            "inspectionLocation": "Bangalore, Karnataka, India",
+            "startingTime": "Fri Aug 30 2024 08:00:00 GMT+0000 (Coordinated Universal Time)",
+            "endingTime": "Thu Aug 29 2024 18:00:00 GMT+0000 (Coordinated Universal Time)"
+        },
+        "auctionSchedule": {
+            "startDate": "2024-08-30T00:00:00.000Z",
+            "startingTime": "Fri Aug 30 2024 08:00:00 GMT+0000 (Coordinated Universal Time)",
+            "endingTime": "Fri Aug 30 2024 18:00:00 GMT+0000 (Coordinated Universal Time)"
+        },
+        "EMDSchedule": {
+            "lastDate": "2024-08-29T00:00:00.000Z",
+            "lastTime": "Thu Aug 29 2024 10:00:00 GMT+0000 (Coordinated Universal Time)"
+        },
+        "_id": "66b21108b2ab74bf782a2a44",
+        "status": "completed",
+        "auctionType": "reverseAuction",
+        "seller": "666fccad826e3ccff7ee859d",
+        "offers": [
+            "66b2114db2ab74bf782a2dbe"
+        ],
+        "customerSupport": [],
+        "isNew": false,
+        "description": "plastic-waste material",
+        "inspections": [],
+        "createdAt": "2024-08-06T12:03:20.954Z",
+        "updatedAt": "2024-08-06T12:04:29.184Z",
+        "auctionId": "CERCLE-73204",
+        "__v": 1
+    },
+    {
+        "inspectionSchedule": {
+            "endDate": "2024-08-21T00:00:00.000Z",
+            "inspectionLocation": "Coimbatore, Tamil Nadu, India",
+            "startingTime": "Fri Aug 30 2024 10:00:00 GMT+0000 (Coordinated Universal Time)",
+            "endingTime": "Wed Aug 21 2024 11:00:00 GMT+0000 (Coordinated Universal Time)"
+        },
+        "auctionSchedule": {
+            "startDate": "2024-08-30T00:00:00.000Z",
+            "startingTime": "Fri Aug 30 2024 10:00:00 GMT+0000 (Coordinated Universal Time)",
+            "endingTime": "Fri Aug 30 2024 11:00:00 GMT+0000 (Coordinated Universal Time)"
+        },
+        "EMDSchedule": {
+            "lastDate": "2024-08-29T00:00:00.000Z",
+            "lastTime": "Thu Aug 29 2024 10:00:00 GMT+0000 (Coordinated Universal Time)"
+        },
+        "_id": "66b303449b798feac9b06bf4",
+        "status": "completed",
+        "auctionType": "forwardAuction",
+        "seller": "666fccad826e3ccff7ee859d",
+        "offers": [
+            "66b3036c9b798feac9b06cc2",
+            "66b303e29b798feac9b06e73",
+            "66b3041d9b798feac9b07063"
+        ],
+        "customerSupport": [],
+        "isNew": false,
+        "description": "Plastic, M S Scrap, Plastic PP",
+        "inspections": [],
+        "createdAt": "2024-08-07T05:16:52.663Z",
+        "updatedAt": "2024-08-07T05:20:29.374Z",
+        "auctionId": "CERCLE-14201",
+        "__v": 3
+    },
+    {
+        "inspectionSchedule": {
+            "endDate": "2024-08-29T00:00:00.000Z",
+            "inspectionLocation": "Kushinagar, Uttar Pradesh, India",
+            "startingTime": "Fri Aug 30 2024 11:00:00 GMT+0000 (Coordinated Universal Time)",
+            "endingTime": "Thu Aug 29 2024 18:00:00 GMT+0000 (Coordinated Universal Time)"
+        },
+        "auctionSchedule": {
+            "startDate": "2024-08-30T00:00:00.000Z",
+            "startingTime": "Fri Aug 30 2024 11:00:00 GMT+0000 (Coordinated Universal Time)",
+            "endingTime": "Fri Aug 30 2024 18:00:00 GMT+0000 (Coordinated Universal Time)"
+        },
+        "EMDSchedule": {
+            "lastDate": "2024-08-29T00:00:00.000Z",
+            "lastTime": "Thu Aug 29 2024 11:00:00 GMT+0000 (Coordinated Universal Time)"
+        },
+        "_id": "66b9878c808c508eea108e61",
+        "status": "completed",
+        "auctionType": "reverseAuction",
+        "seller": "666fccad826e3ccff7ee859d",
+        "offers": [
+            "66b98822808c508eea108ee7"
+        ],
+        "customerSupport": [],
+        "isNew": false,
+        "description": "plastic-waste",
+        "inspections": [],
+        "createdAt": "2024-08-12T03:54:52.691Z",
+        "updatedAt": "2024-08-12T03:57:22.254Z",
+        "auctionId": "CERCLE-50708",
+        "__v": 1
+    }
+]
