@@ -104,5 +104,5 @@ const AddLocation = ({ values, setValues, handleFuctionClick, locationName = fal
 };
 
 export default GoogleApiWrapper({
-  apiKey: "AIzaSyDsVU8VuCB3p7REGp24SbXZnkNXHaIKCfo",
+  apiKey: "AIzaSyDsVU8VuCB3p7REGp24SbXZnkNXHaIKCfueuxhuo",
 })(AddLocation);
